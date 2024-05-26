@@ -10,3 +10,4 @@
 - How does it work
 - Security
 - How to run this web app
+- How this could be used for Koren and japanese - attract workers
