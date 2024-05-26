@@ -6,3 +6,4 @@
 - What is the tech stack
 - How does it work
 - Security
+- How to run this web app
