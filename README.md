@@ -1,4 +1,4 @@
-# E-Bot-English-Practice-Chatbot
+# E-Bot English Practice Chatbot
 
 - What is it
 - What problem does it solve
