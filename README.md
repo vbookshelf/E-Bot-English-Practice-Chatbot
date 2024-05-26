@@ -4,7 +4,7 @@
 - App video
 - What is it
 - What problem does it solve
-- Design approach
+- Design approach - UI and backend
 - Main features
 - What is the tech stack
 - How does it work
