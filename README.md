@@ -6,6 +6,7 @@
 - What problem does it solve
 - Design approach - UI and backend
 - Main features
+-  Mobile optimized
 - What is the tech stack
 - How does it work
 - Security
