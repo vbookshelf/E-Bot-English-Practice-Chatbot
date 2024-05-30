@@ -1,4 +1,5 @@
 # E-Bot English Practice Chatbot
+<i>Powered by Google Gemini 1.5 Flash</i>
 
 - Overview of the competition objectives
 - App video
