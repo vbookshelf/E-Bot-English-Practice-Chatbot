@@ -73,3 +73,16 @@ The LLM backend is a three-agent system consisting of a chat agent, correction a
 - Deaf or hard of hearing users need a text-based learning tool that's accessible and easy to use.
 
 E-bot was designed to meet these needs.
+<br>
+<br>
+
+## Why is learning english such a big deal?
+English is the language of international business, science and technology. Many people across the world want to learn english because of the benefits it provides. Some of these benefits include:
+- Access to overseas jobs
+- Access to online freelance work
+- Access to overseas study opportunities
+- Ability to participate in online learning communities like Kaggle.
+- Ability to travel with less language stress
+  
+Knowing english can lift people up economically. If you ever were to meet the people who clean your office building late at night or sweep the streets, you may discover that many of them can’t speak english.
+
