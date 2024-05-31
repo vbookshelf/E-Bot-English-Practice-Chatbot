@@ -1,6 +1,9 @@
 # E-Bot English Practice Chatbot
 ### Learn English by chatting with a virtual friend
-<i>Powered by Google Gemini 1.5 Flash</i>
+<i>Powered by Google Gemini 1.5 Flash (Fee version)<br>
+15 RPM (requests per minute)<br>
+1 million TPM (tokens per minute)<br>
+1,500 RPD (requests per day)</i>
 <br>
 <br>
 
