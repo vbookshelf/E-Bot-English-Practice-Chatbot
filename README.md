@@ -23,12 +23,13 @@ https://e-bot.woza.work/
 - Can be deployed on any website hosting platform
 
 ## Video Demo
-
+<br>
+<br>
 
 ## The Target User
 
 
-### Demographics:
+### Demographics
 
 <b>Age:</b> 18-25<br>
 <b>Gender:</b> All<br>
@@ -37,16 +38,16 @@ https://e-bot.woza.work/
 <b>Occupation:</b> Student, recently employed or online freelancer<br>
 <b>Disabilities:</b> None, Deaf, Hard of hearing<br>
 
-### Psychographics:
+### Psychographics
 
 <b>Interests:</b> Social activism, travel<br>
 <b>Values:</b> Continuous learning<br>
 <b>Personality Traits:</b> Tech-savvy, motivated, and open-minded<br>
 <b>Goals:</b> To improve their English skills to enhance their academic and career prospects and to improve their travel experiences.<br>
 
-### Behavioral Traits:
+### Behavioral Traits
 
-<b>Tech Usage:</b> Uses a desktop for work and study. Uses mobile devices for social media and messaging.<br>
+<b>Tech Usage:</b> Uses a laptop for work and study. Uses a cellphone for for social media and messaging.<br>
 <b>Language Skills:</b> Basic to intermediate proficiency in English, looking to improve grammar, expand vocabulary and improve fluency<br>
 <b>Challenges:</b> Finds it difficult to practice conversational English in a supportive environment, has limited opportunities to interact with native English speakers<br>
 <b>Motivation:</b> Believes improving their English will improve their lives<br>
