@@ -84,5 +84,16 @@ English is the language of international business, science and technology. Many 
 - Ability to participate in online learning communities like Kaggle.
 - Ability to travel with less language stress
   
-Knowing english can lift people up economically. If you ever were to meet the people who clean your office building late at night or sweep the streets, you may discover that many of them can’t speak english.
+If you ever were to meet the people who clean your office building late at night or sweep the streets, you may discover that many of them can’t speak english. Knowing english can lift people up economically. 
+<br>
+<br>
+
+## Known Issues
+
+<br>
+<br>
+
+## Revision History
+<br>
+<br>
 
