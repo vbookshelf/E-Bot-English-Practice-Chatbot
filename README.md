@@ -50,7 +50,7 @@ Each of these three features can be enabled or disabled. The user can replay the
 
 The LLM (Large Language Model) backend is a three-agent system consisting of a chat agent, correction agent and a translation agent. During each conversation turn API calls are made to the Gemini-Flash API to generate chat responses, correct spelling and grammar errors, and to translate text into the user’s first language.
 
-To create more variety in the chatbot’s responses, the code randomly sets the mood of the chatbot at the start of each user session. This is done by changing the chat agent system message. The three moods are: 'bubbly', 'contemplative' and 'witty'.
+To create more variety in the chatbot’s responses, the code randomly sets the mood of the chatbot at the start of each user session by changing the chat agent system message. The three moods are: 'bubbly', 'contemplative' and 'witty'.
 <br>
 <br>
 
