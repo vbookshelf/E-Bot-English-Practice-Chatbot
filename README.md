@@ -4,14 +4,14 @@
 <br>
 <br>
 
-Those of us who live in English speaking countries tend to take English for granted, but if you ever were to meet the people who clean your office building late at night or sweep the streets, you may discover that many of them can’t speak english. People who can't speak English are forced into the lowest economic level. Knowing english can lift people up.
-
 English is the language of international business, science and technology. Many people across the world want to learn english because of the benefits it provides. Some of these benefits include:
 - Access to higher paying jobs
 - Access to online freelance work
 - Access to overseas study opportunities
 - Ability to participate in online learning communities like Kaggle.
 - Ability to travel with less language stress
+
+A challenge that many learners face is that they don't have many opportunities to interact with nativee english speakers.
 
 E-Bot is a virtual english speaking friend that helps deaf and hearing learners practice english through casual conversation - supporting them with corrections, translated responses and spoken responses. It’s ideal for shy english learners and those who don’t have english speaking friends to practice with.
 
