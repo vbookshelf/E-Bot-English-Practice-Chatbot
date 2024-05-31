@@ -32,7 +32,7 @@ E-bot helps learners improve their English by engaging them in a casual text con
 
 Each of these three features can be enabled or disabled. The user can replay the chatbot’s spoken responses at any time by simply clicking on the response text.
 
-The LLM backend is a three-agent system consisting of a chat agent, correction agent and a translation agent. During each conversation turn API calls are made to the Gemini-Flash API to generate chat responses, correct spelling and grammar errors, and to translate text into the user’s first language.
+The LLM (Large Language Model) backend is a three-agent system consisting of a chat agent, correction agent and a translation agent. During each conversation turn API calls are made to the Gemini-Flash API to generate chat responses, correct spelling and grammar errors, and to translate text into the user’s first language.
 <br>
 <br>
 
