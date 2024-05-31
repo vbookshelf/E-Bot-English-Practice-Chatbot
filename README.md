@@ -90,6 +90,21 @@ If you ever were to meet the people who clean your office building late at night
 <br>
 <br>
 
+## How do I deploy this app?
+
+In order to deploy this app you should know how to register a domain name and deploy a website using web hosts like Dreamhost, Godaddy etc.
+
+These are the steps:
+
+1. Create a hosted website domain. You will have a domain name like my-website.com.
+1. Download the project folder from this repo.
+2. Inside the project folder there is a file called ebot_config.ini.txt. Open this file and add your Google API key where indicated. Then rename this file to: ebot_config.ini
+3. Open the file named main.php. You will see a variable that contains the path to the ebot_config.ini file. You can leave this as is because the main.php file and the ebot_config.ini file are both in the same folder. However, to secure your API key I suggest you place the ebot_config.ini file in a folder that’s located outside the your website root folder. Then change the $path_to_config_ini variable to the new file path.
+4. Finally upload all the files located inside the project folder to your website domain. Don’t upload the project folder itself, only the files inside it.
+5. Navigate to your website url. The app should load and be working.
+<br>
+<br>
+
 ## Known Issues
 
 <br>
