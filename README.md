@@ -1,9 +1,6 @@
 # E-Bot English Practice Chatbot
 ### Learn English by chatting with a virtual friend
-<i>Powered by Google Gemini 1.5 Flash (Fee version)<br>
-15 RPM (requests per minute)<br>
-1 million TPM (tokens per minute)<br>
-1,500 RPD (requests per day)</i>
+
 <br>
 <br>
 
@@ -11,6 +8,11 @@ E-Bot is a virtual english speaking friend that helps deaf and hearing learners 
 
 Live Web App:<br>
 https://e-bot.woza.work/
+
+<i>Powered by Google Gemini 1.5 Flash (Fee version)<br>
+15 RPM (requests per minute)<br>
+1 million TPM (tokens per minute)<br>
+1,500 RPD (requests per day)</i>
 <br>
 <br>
 
