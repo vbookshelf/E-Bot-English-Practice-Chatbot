@@ -11,7 +11,7 @@ English is the language of international business, science and technology. Many 
 - Ability to participate in online learning communities like Kaggle.
 - Ability to travel with less language stress
 
-A challenge that many learners face is that they don't have many opportunities to interact with nativee english speakers.
+A challenge that many learners face is that they don't have the opportunity to interact with nativee english speakers.
 
 E-Bot is a virtual english speaking friend that helps deaf and hearing learners practice english through casual conversation - supporting them with corrections, translated responses and spoken responses. It’s ideal for shy english learners and those who don’t have english speaking friends to practice with.
 
