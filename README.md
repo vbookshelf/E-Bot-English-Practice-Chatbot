@@ -56,6 +56,8 @@ To create more variety in the chatbot’s responses, the code randomly sets the 
 <br>
 
 ## Deaf Accesibility Features
+- Animated sound bars are present. This is a visual cue that tells deaf people that sound is playing.
+- A speaker icon is displayed below the chatbot's responses. This is a cue that tells deaf people what text is being spoken. This icon changes depending on whether Auto Speak is enabled or disabled.
 
 <br>
 <br>
