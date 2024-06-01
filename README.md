@@ -95,6 +95,7 @@ To create more variety in the chatbot’s responses, the code randomly sets the 
 - A safe environment to practice conversational English.
 - A friendly and patient practice partner who is willing to regularly repeat what they have said.
 - Deaf or hard of hearing users need a text-based learning tool that's accessible and easy to use.
+- Deaf or hard of hearing users need a clear visual indicator that tells them when audio is playing.
 
 E-bot was designed to meet these needs.
 <br>
