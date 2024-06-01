@@ -55,6 +55,11 @@ To create more variety in the chatbot’s responses, the code randomly sets the 
 <br>
 <br>
 
+## Deaf Accesibility Features
+
+<br>
+<br>
+
 ## Who is the target user?
 
 
