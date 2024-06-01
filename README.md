@@ -12,7 +12,7 @@ English is the language of international business, science and technology. Many 
 - Access to online freelance work
 - Access to overseas study opportunities
 - Ability to participate in online learning communities like Kaggle.
-- Ability to travel with less language stress
+- Ability to travel with less language anxiety
 
 A challenge that many learners face is that they don't have the opportunity to interact with native english speakers.
 
