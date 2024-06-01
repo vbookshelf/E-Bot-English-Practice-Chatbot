@@ -1,6 +1,9 @@
 # E-Bot English Practice Chatbot
 ### Learn English by chatting with a virtual friend
 
+Live Web App:<br>
+https://e-bot.woza.work/
+
 <br>
 <br>
 
@@ -15,8 +18,6 @@ A challenge that many learners face is that they don't have the opportunity to i
 
 E-Bot is a virtual english speaking friend that helps deaf and hearing learners practice english through casual conversation - supporting them with corrections, translated responses and spoken responses. It’s ideal for shy english learners and those who don’t have english speaking friends to practice with.
 
-Live Web App:<br>
-https://e-bot.woza.work/
 
 <i>Powered by Google Gemini 1.5 Flash (Fee version)<br>
 15 RPM (requests per minute)<br>
