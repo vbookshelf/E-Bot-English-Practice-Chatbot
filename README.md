@@ -7,6 +7,8 @@ https://e-bot.woza.work/
 <br>
 <br>
 
+## What problem does this solve?
+
 English is the language of international business, science and technology. Many people across the world want to learn english because of the benefits it provides. Some of these benefits include:
 - Access to higher paying jobs
 - Access to online freelance work
