@@ -45,9 +45,10 @@ E-Bot is a virtual english speaking friend that helps deaf and hearing learners 
 
 ## App Description
 
-E-bot helps learners improve their English by engaging them in a casual text conversation. During this conversation the chatbot automatically translates it’s responses into the user’s first language, speaks it’s responses out loud and corrects any spelling or grammar errors that the user makes.
+E-Bot helps learners improve their English by engaging them in a casual text conversation. During this conversation the chatbot automatically translates it’s responses into the user’s first language, speaks it’s responses out loud and corrects any spelling or grammar errors that the user makes.
 
-Each of these three features can be enabled or disabled. The user can replay the chatbot’s spoken responses at any time by simply clicking on the response text.
+Each of these three features can be enabled or disabled. The user can replay the chatbot’s spoken responses at any time by simply clicking on the response text. The app’s accessibility features include visual audio cues for deaf users to alert them that audio is being played.
+
 
 The LLM (Large Language Model) backend is a three-agent system consisting of a chat agent, correction agent and a translation agent. During each conversation turn API calls are made to the Gemini-Flash API to generate chat responses, correct spelling and grammar errors, and to translate text into the user’s first language.
 
