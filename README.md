@@ -108,7 +108,7 @@ E-bot was designed to meet these needs.
 <br>
 <br>
 
-## How do I deploy this app?
+## How to deploy this app
 
 In order to deploy this app you should know how to register a domain name and deploy a website using web hosts like Dreamhost, Godaddy etc.
 
