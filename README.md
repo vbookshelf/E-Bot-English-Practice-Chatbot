@@ -122,6 +122,8 @@ These are the steps:
 <br>
 
 ## Known Issues
+- Occasionally, the corrrection agent does not correct bad spelling or grammar. In general the correction agent works reliably.
+- On some phones there's a short delay before the text of the first message is converted into speech. After the first message text to speech conversion is fast and reliable.
 
 <br>
 <br>
