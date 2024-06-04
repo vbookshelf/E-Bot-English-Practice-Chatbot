@@ -110,8 +110,10 @@ To create more variety in the chatbot’s responses, the code randomly sets the 
 - Deaf or hard of hearing users need a clear visual indicator that tells them when audio is playing.
 
 E-bot was designed to meet these needs.
+
 <br>
 <br>
+
 
 ## How to deploy this app
 
