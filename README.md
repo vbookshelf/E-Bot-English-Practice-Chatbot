@@ -37,7 +37,7 @@ E-Bot is a virtual english speaking friend that helps deaf and hearing learners 
 - Uses the Gemini 1.5 Flash API (Free version)
 - Set up as a three-agent LLM system - chat, correction, translation
 - Uses Javascript SpeechSynthesis to convert text to speech
-- Visual audio cues for deaf learners
+- Has visual audio cues for deaf learners
 - Can be deployed on any website hosting platform
 <br>
 <br>
