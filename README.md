@@ -18,7 +18,7 @@ English is the language of international business, science and technology. Many 
 
 A challenge that many learners face is that they don't have the opportunity to interact with native english speakers.
 
-E-Bot is a virtual english speaking friend that helps deaf and hearing learners practice english through casual conversation - supporting them with corrections, translated responses and spoken responses. It’s ideal for shy english learners and those who don’t have english speaking friends to practice with.
+E-Bot is a virtual english speaking friend that helps deaf and hearing learners practice english through casual text conversation - supporting them with corrections, translated responses and spoken responses. It’s ideal for shy english learners and those who don’t have english speaking friends to practice with.
 
 
 <br>
