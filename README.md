@@ -127,7 +127,7 @@ These are the steps:
 
 ## Error Logging
 
-The Php code includes error logging. Errors are logged to a file named: php-errors.log
+The Php code includes error logging. Errors are logged to a file named: <i>php-errors.log</i><br>
 This final is automatically created when the first error happens. The log file will appear in the same location as index.php.
 Here's an example of an API error that was logged:
 ```
@@ -139,8 +139,10 @@ Here's an example of an API error that was logged:
   }
 }
 ```
-The Gemini API is most likely handling a large volume of requests. Because thw model is multi-modal with a one million context size, those requests can contain large text, audio or video files. It's therefore likely that API related errors will occur.
-When an API error occurs the following message is displayed on the web page: api_error
+The Gemini API is most likely handling a large volume of requests. Because Gemini is multi-modal with a one million context size, those requests can contain large text, audio or video files. It's therefore likely that API related errors will happen.<br>
+When there's an API error, the following message is displayed on the web page: <i>api_error</i>
+<br>
+<br>
 
 ## Known Issues
 - Occasionally, the corrrection agent does not correct bad spelling or grammar. In general the correction agent works reliably.
