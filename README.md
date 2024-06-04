@@ -21,10 +21,6 @@ A challenge that many learners face is that they don't have the opportunity to i
 E-Bot is a virtual english speaking friend that helps deaf and hearing learners practice english through casual conversation - supporting them with corrections, translated responses and spoken responses. It’s ideal for shy english learners and those who don’t have english speaking friends to practice with.
 
 
-<i>Powered by Google Gemini 1.5 Flash (Fee version)<br>
-15 RPM (requests per minute)<br>
-1 million TPM (tokens per minute)<br>
-1,500 RPD (requests per day)</i>
 <br>
 <br>
 
@@ -39,6 +35,11 @@ E-Bot is a virtual english speaking friend that helps deaf and hearing learners 
 - Uses Javascript SpeechSynthesis to convert text to speech
 - Has visual audio cues for deaf learners
 - Can be deployed on any website hosting platform
+
+<i>Powered by Google Gemini 1.5 Flash (Fee version)<br>
+15 RPM (requests per minute)<br>
+1 million TPM (tokens per minute)<br>
+1,500 RPD (requests per day)</i>
 <br>
 <br>
 
