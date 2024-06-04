@@ -125,6 +125,23 @@ These are the steps:
 <br>
 <br>
 
+## Error Logging
+
+The Php code includes error logging. Errors are logged to a file named: php-errors.log
+This final is automatically created when the first error happens. The log file will appear in the same location as index.php.
+Here's an example of an API error that was logged:
+```
+2024-05-31 00:24:49HTTP error: 500 - Response: {
+  "error": {
+    "code": 500,
+    "message": "An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting",
+    "status": "INTERNAL"
+  }
+}
+```
+The Gemini API is most likely handling a large volume of requests. Because thw model is multi-modal with a one million context size, those requests can contain large text, audio or video files. It's therefore likely that API related errors will occur.
+When an API error occurs the following message is displayed on the web page: api_error
+
 ## Known Issues
 - Occasionally, the corrrection agent does not correct bad spelling or grammar. In general the correction agent works reliably.
 - On some phones there's a short delay before the text of the first message is converted into speech. But after the first message, the text to speech conversion is fast and reliable.
