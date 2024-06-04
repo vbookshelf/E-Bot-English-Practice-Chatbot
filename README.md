@@ -9,7 +9,7 @@ https://e-bot.woza.work/
 
 ## What problem does this solve?
 
-English is the language of international business, science and technology. Many people across the world want to learn english because of the benefits it provides. Some of these benefits include:
+English is the language of international business, science and technology. Many people in non-english speaking countries want to learn english because of the benefits it provides. Some of these include:
 - Access to higher paying jobs
 - Access to online freelance work
 - Access to overseas study opportunities
@@ -18,7 +18,7 @@ English is the language of international business, science and technology. Many 
 
 A challenge that many learners face is that they don't have the opportunity to interact with native english speakers.
 
-E-Bot is a virtual english speaking friend that helps deaf and hearing learners practice english through casual conversation - supporting them with corrections, translated responses and spoken responses. It’s ideal for shy english learners and those who don’t have english speaking friends to practice with.
+E-Bot is a virtual english speaking friend that helps deaf and hearing learners practice english through casual conversation - supporting them with corrections, translated responses and spoken responses. It’s ideal for shy english learners and those who don’t have native english speaking friends to practice with.
 
 
 <i>Powered by Google Gemini 1.5 Flash (Fee version)<br>
@@ -37,6 +37,7 @@ E-Bot is a virtual english speaking friend that helps deaf and hearing learners 
 - Uses the Gemini 1.5 Flash API (Free version)
 - Set up as a three-agent LLM system - chat, correction, translation
 - Uses Javascript SpeechSynthesis to convert text to speech
+- Visual audio cues for deaf learners
 - Can be deployed on any website hosting platform
 <br>
 <br>
