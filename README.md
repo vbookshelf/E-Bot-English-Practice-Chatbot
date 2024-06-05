@@ -46,7 +46,7 @@ E-Bot is a virtual english speaking friend that helps deaf and hearing learners 
 ## Video Demo
 
 YouTube Video:<br>
-https://www.youtube.com/watch?v=XoeTYdsMl5E
+https://youtu.be/VA82S4BLnTs
 <br>
 <br>
 
