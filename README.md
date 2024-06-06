@@ -57,7 +57,7 @@ E-Bot helps learners improve their English by engaging them in a casual text con
 Each of these three features can be enabled or disabled. The user can replay the chatbot’s spoken responses at any time by simply clicking on the response text. The app’s accessibility features include visual audio cues for deaf users to alert them that audio is being played.
 
 
-The LLM (Large Language Model) backend is a three-agent system consisting of a chat agent, correction agent and a translation agent. During each conversation turn API calls are made to the Gemini-Flash API to generate chat responses, correct spelling and grammar errors, and to translate text into the user’s first language.
+The LLM (Large Language Model) backend is a three-agent system consisting of a chat agent, correction agent and a translation agent. During each conversation turn API calls are made to the Gemini API to generate chat responses, correct spelling and grammar errors, and to translate text into the user’s first language.
 
 To create more variety in the chatbot’s responses, the code randomly sets the mood of the chatbot at the start of each user session. The three moods are: 'bubbly', 'contemplative' and 'cheerful'.
 <br>
@@ -67,7 +67,7 @@ To create more variety in the chatbot’s responses, the code randomly sets the 
 - Animated sound bars are present. This is a visual cue that tells deaf users that sound is playing.
 - A speaker icon is displayed below the chatbot's responses. This is a cue that tells deaf users what text is being spoken. This icon changes depending on whether Auto Speak is enabled or disabled.
 - Text is large and easy to read.
-- Should a user need the chatbot to repeat something it said, any response can be spoken out load by clicking on it.
+- Should a user need the chatbot to say something again, any response can be spoken out load by clicking on it.
 
 <br>
 <br>
