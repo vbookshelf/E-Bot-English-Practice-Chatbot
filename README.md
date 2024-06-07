@@ -36,7 +36,7 @@ E-Bot is a virtual English speaking friend that helps deaf and hearing learners 
 - Has visual audio cues for deaf learners
 - Can be deployed on any website hosting platform
 
-<i>Powered by Google Gemini 1.5 Flash (Fee version)<br>
+<i>Powered by Google Gemini 1.5 Flash (Free version)<br>
 15 RPM (requests per minute)<br>
 1 million TPM (tokens per minute)<br>
 1,500 RPD (requests per day)</i>
