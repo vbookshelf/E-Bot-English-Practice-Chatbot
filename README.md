@@ -158,7 +158,7 @@ Here's an example of an API error that was logged:
 
 ## Revision History
 Version 1.0<br>
-31-May-2024<br>
+7-June-2024<br>
 First release
 <br>
 <br>
