@@ -147,9 +147,9 @@ include "php/name_config.php";
     // when the page loads.
     // Selects and checks radio buttons when the page loads
     window.onload = function() {
-        checkRadioButton('speak1', 'speakid');
+        //checkRadioButton('speak1', 'speakid');
         checkRadioButton('correct1', 'correctid');
-        checkRadioButton('translate1', 'translateid');
+        //checkRadioButton('translate1', 'translateid');
     };
 </script>
 
