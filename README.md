@@ -145,7 +145,6 @@ Here's an example of an API error that was logged:
 }
 ```
 
-When there's an API error, the following message is displayed on the web page: <i>api_error</i>
 <br>
 <br>
 
