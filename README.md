@@ -133,7 +133,7 @@ These are the steps:
 ## Error Logging
 
 The Php code includes error logging. Errors are logged to a file named: <i>php-errors.log</i><br>
-This final is automatically created when the first error happens. The log file will appear in the same location as index.php.
+This file is automatically created when the first error happens. The log file will appear in the same location as index.php.
 Here's an example of an API error that was logged:
 ```
 2024-05-31 00:24:49 HTTP error: 500 - Response: {
