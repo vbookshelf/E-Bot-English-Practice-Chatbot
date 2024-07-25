@@ -1,7 +1,8 @@
 # E-Bot English Practice Chatbot
 ### Learn English by chatting with a virtual friend
 
-Live Web App:<br>
+Live Demo:<br>
+(Access from any device by simply typing this url into a web browser.)<br>
 https://e-bot.woza.work/
 
 <br>
