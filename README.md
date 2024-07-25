@@ -68,7 +68,12 @@ To create more variety in the chatbot’s responses, the code randomly sets the 
 - A speaker icon is displayed below the chatbot's responses. This is a cue that tells deaf users what text is being spoken. This icon changes depending on whether Auto Speak is enabled or disabled.
 - Text is large and easy to read.
 - Should a user need the chatbot to say something again, any response can be spoken out loud by clicking on it.
+<br>
 
+## How can we be sure that the translations are high quality?
+The 11 translation languages that E-Bot supports were taken from the list of 37 languages that Gemini is trained to work with. A full list of supported languages is available in the Geminin docs:<br>
+https://ai.google.dev/gemini-api/docs/models/gemini#available-languages
+<br>
 <br>
 <br>
 
@@ -113,7 +118,6 @@ E-Bot was designed to meet these needs.
 
 <br>
 <br>
-
 
 ## How to deploy this app
 
