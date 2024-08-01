@@ -71,6 +71,12 @@ To create more variety in the chatbot’s responses, the code randomly sets the 
 - Should a user need the chatbot to say something again, any response can be spoken out loud by clicking on it.
 <br>
 
+## How does the text to speech conversion work?
+The app is using Javascript SpeechSynthesis to convert text to speech. This is a free feature that's built into Javascript. SpeechSynthesis uses the voices available on your device to convert text to speech. Therefore, on different devices you will hear different voices. The quality of the voices will also vary. For example the voices on Android sound more human-like than those on Mac OS. The demo video, linked above, is using a voice on Mac OS Big Sur. Besides being free, one of the main benefits of using JS SpeechSynthesis is that it's very fast.
+<br>
+<br>
+
+
 ## How can we be sure that the translations are high quality?
 The 11 translation languages that E-Bot supports were taken from the list of 37 languages that Gemini is trained to work with. A full list of supported languages is available in the Geminin docs:<br>
 https://ai.google.dev/gemini-api/docs/models/gemini#available-languages
