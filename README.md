@@ -72,7 +72,8 @@ To create more variety in the chatbot’s responses, the code randomly sets the 
 <br>
 
 ## How does the text to speech conversion work?
-The app is using Javascript SpeechSynthesis to convert text to speech. This is a free feature that's built into Javascript. SpeechSynthesis uses the voices available on your device to convert text to speech. Therefore, on different devices you will hear different voices. The quality of the voices will also vary. For example the voices on Android sound more natural than those on Mac OS. The demo video, linked above, is using a voice on Mac OS Big Sur. Besides being free, one of the main benefits of using JS SpeechSynthesis is that it's very fast.
+The app is using Javascript SpeechSynthesis to convert text to speech. This is a free feature that's built into Javascript. SpeechSynthesis uses the voices available on your device to convert text to speech. Therefore, on different devices you will hear different voices. The quality of the voices will also vary. For example the voices on Android sound more natural than those on Mac OS. The demo video, linked above, is using a voice on Mac OS Big Sur. Besides being free, one of the main benefits of using JS SpeechSynthesis is that it's very fast.<br>
+https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
 <br>
 <br>
 
