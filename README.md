@@ -21,7 +21,6 @@ A challenge that many learners face is they don't have the opportunity to intera
 
 E-Bot is a virtual English speaking friend that helps deaf and hearing learners practice English through casual text conversation - supporting them with corrections, translated responses and spoken responses. It’s ideal for shy English learners and those who don’t have English speaking friends to practice with.
 
-
 <br>
 <br>
 
@@ -123,6 +122,12 @@ https://ai.google.dev/gemini-api/docs/models/gemini#available-languages
 - Deaf or hard of hearing users need a clear visual indicator that tells them when audio is playing.
 
 E-Bot was designed to meet these needs.
+
+<br>
+
+
+## Why target the deaf?
+I once saw a highly intelligent and motivated deaf person who was stuck doing boring work. Finding meaningful work is a challenge for deaf people. Long-term career prospects are uncertain. I believe that learning English can improve their chances of finding online work as international freelancers, especially in the lucrative IT field, which is well-suited for remote work. Freelancing can help deaf people achieve greater independence and financial stability.
 
 <br>
 <br>
