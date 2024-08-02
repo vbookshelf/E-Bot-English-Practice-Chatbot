@@ -126,7 +126,7 @@ E-Bot was designed to meet these needs.
 <br>
 
 
-## Why target the deaf?
+## Why target young deaf people?
 I once saw a highly intelligent and motivated deaf person who was stuck doing boring work. Finding meaningful work is a challenge for deaf people. Long-term career prospects are uncertain. I believe that learning English can improve their chances of finding online work as international freelancers, especially in the lucrative IT field, which is well-suited for remote work. Freelancing can help deaf people achieve greater independence and financial stability.
 
 <br>
