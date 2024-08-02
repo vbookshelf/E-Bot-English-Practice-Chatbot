@@ -127,7 +127,7 @@ E-Bot was designed to meet these needs.
 
 
 ## Why target young deaf people?
-Finding meaningful work is a challenge for deaf people. Long-term career prospects are uncertain. I believe that learning English can improve their chances of finding online work as international freelancers, especially in the lucrative IT field, which is well-suited for remote work. Freelancing can help deaf people achieve greater independence and financial stability.
+Finding meaningful work is a challenge for deaf people. Long-term career prospects are uncertain. I believe that learning English can improve their chances of finding online work as international freelancers, especially in the lucrative IT field, which is well-suited for remote work. Online freelancing has the potential help deaf and other disabled people all over the world achieve greater independence and financial stability.
 
 <br>
 <br>
