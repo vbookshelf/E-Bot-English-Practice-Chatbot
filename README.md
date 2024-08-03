@@ -129,7 +129,7 @@ E-Bot was designed to meet these needs.
 ## Why target young deaf people?
 Finding meaningful work is a challenge for deaf people. Long-term career prospects are uncertain. I believe that learning English can improve their chances of finding online work as international freelancers, especially in the lucrative IT field, which is well-suited for remote work. Online freelancing has the potential help deaf and other disabled people all over the world achieve greater independence and financial stability.
 
-That said, I believe it’s also crucial for us to change our perspective on disability. Instead of viewing disabled people as problems needing to be fixed or as objects of pity and charity, we should recognize that the real issue lies with society’s failure to accommodate them. By not providing the necessary infrastructure, we are preventing differently-abled people from living fulfilling and impactful lives.
+That said, I also believe we should change our perspective on disability. Instead of seeing disabled people as problems needing to be fixed or as objects of pity and charity, we should recognize that the real issue lies with society’s failure to accommodate them. By not providing the necessary infrastructure, we are preventing differently-abled people from living fulfilling and impactful lives.
 
 We must integrate this support infrastructure into the digital world we're building. While "AI First" is the current trend, adopting a "Disabled First" approach to product design could lead us to create simpler, better and more intuitive user interfaces. 
 
