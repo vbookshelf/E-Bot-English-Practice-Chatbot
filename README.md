@@ -1,5 +1,5 @@
 # E-Bot English Practice Chatbot
-### Learn English by chatting with a virtual friend
+### Practice English conversation using AI
 
 Live Demo:<br>
 (Access from any device by simply typing this url into a web browser.)<br>
@@ -19,7 +19,7 @@ English is the language of international business, science and technology. Many 
 
 A challenge that many learners face is they don't have the opportunity to interact with native English speakers.
 
-E-Bot is a virtual English speaking friend that helps deaf and hearing learners practice English through casual text conversation - supporting them with corrections, translated responses and spoken responses. It’s ideal for shy English learners and those who don’t have English speaking friends to practice with.
+E-Bot is a virtual English speaking friend that helps learners practice English through casual text and voice conversation - supporting them with corrections, translated responses and spoken responses. It’s ideal for shy English learners and those who don’t have English speaking friends to practice with.
 
 <br>
 <br>
@@ -30,13 +30,14 @@ E-Bot is a virtual English speaking friend that helps deaf and hearing learners 
 - Minimalist and visually calm UI design
 - Frontend: Html, CSS, Javascript
 - Backend: PHP
-- Uses the Gemini 1.5 Flash API (Free version)
+- Uses the Gemini 2.0 Flash API (Free version)
 - Set up as a three-agent LLM system - chat, correction, translation
+- Uses Javascript SpeechRecognition to convert the user's speech into text.
 - Uses Javascript SpeechSynthesis to convert text to speech
 - Has visual audio cues for deaf learners
 - Can be deployed on any website hosting platform
 
-<i>Powered by Google Gemini 1.5 Flash (Free version)<br>
+<i>Powered by Google Gemini 2.0 Flash (Free version)<br>
 15 RPM (requests per minute)<br>
 1 million TPM (tokens per minute)<br>
 1,500 RPD (requests per day)</i>
@@ -52,14 +53,13 @@ https://youtu.be/VA82S4BLnTs
 
 ## App Description
 
-E-Bot helps learners improve their English by engaging them in a casual text conversation. During this conversation the chatbot automatically translates it’s responses into the user’s first language, speaks it’s responses out loud and corrects any spelling or grammar errors that the user makes.
+E-Bot helps learners improve their English by engaging them in casual conversation. During this conversation the chatbot automatically translates it’s responses into the user’s first language, speaks it’s responses out loud and corrects any spelling or grammar errors that the user makes.
 
 Each of these three features can be enabled or disabled. The user can replay the chatbot’s spoken responses at any time by simply clicking on the response text. The app’s accessibility features include visual audio cues for deaf users to alert them that audio is being played.
 
 
 The LLM (Large Language Model) backend is a three-agent system consisting of a chat agent, correction agent and a translation agent. During each conversation turn API calls are made to the Gemini API to generate chat responses, correct spelling and grammar errors, and to translate text into the user’s first language.
 
-To create more variety in the chatbot’s responses, the code randomly sets the mood of the chatbot at the start of each user session. The three moods are: 'bubbly', 'contemplative' and 'cheerful'.
 <br>
 <br>
 
@@ -78,61 +78,11 @@ https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
 
 
 ## How can we be sure that the translations are high quality?
-The 11 translation languages that E-Bot supports were taken from the list of 37 languages that Gemini is trained to work with. A full list of supported languages is available in the Geminin docs:<br>
+A full list of Gemini supported languages is available in the Geminin docs:<br>
 https://ai.google.dev/gemini-api/docs/models/gemini#available-languages
+
+If the translation language is included in this list then the chances are that the translation quality will be good. For low resource languages like Burmese, the translation quality may vary.
 <br>
-<br>
-<br>
-
-## Who is the target user?
-
-
-### Demographics
-
-<b>Age:</b> 18-25<br>
-<b>Gender:</b> All<br>
-<b>Location:</b> Non-english speaking country<br>
-<b>Education:</b> High school, College<br>
-<b>Occupation:</b> Student, recently employed or online freelancer<br>
-<b>Disabilities:</b> None, Deaf, Hard of hearing<br>
-
-### Psychographics
-
-<b>Interests:</b> Social activism, travel<br>
-<b>Values:</b> Continuous learning<br>
-<b>Personality Traits:</b> Tech-savvy, motivated, and open-minded<br>
-<b>Goals:</b> To improve their English skills to enhance their academic and career prospects and to improve their travel experiences.<br>
-
-### Behavioral Traits
-
-<b>Tech Usage:</b> Uses a laptop for work and study. Uses a cellphone for social media and messaging.<br>
-<b>Language Skills:</b> Basic to intermediate proficiency in English, looking to improve grammar, expand vocabulary and improve fluency<br>
-<b>Challenges:</b> Finds it difficult to practice conversational English in a supportive environment, has limited opportunities to interact with native English speakers<br>
-<b>Motivation:</b> Believes improving their English will improve their lives<br>
-<b>Preferred Learning Style:</b> Practical application, enjoys learning through doing
-<br>
-<br>
-
-## What needs does the target user have?
-
-- A flexible learning option.
-- A safe environment to practice conversational English.
-- A friendly and patient practice partner who is willing to regularly repeat what they have said.
-- Deaf or hard of hearing users need a text-based learning tool that's accessible and easy to use.
-- Deaf or hard of hearing users need a clear visual indicator that tells them when audio is playing.
-
-E-Bot was designed to meet these needs.
-
-<br>
-
-
-## Why target young deaf people?
-Finding meaningful work is a challenge for deaf people. Long-term career prospects are uncertain. I believe that learning English can improve their chances of finding online work as international freelancers, especially in the lucrative IT field, which is well-suited for remote work. Online freelancing has the potential help deaf and other disabled people all over the world achieve greater independence and financial stability.
-
-That said, I also believe we should change our perspective on disability. Instead of seeing disabled people as problems needing to be fixed or as objects of pity and charity, we should recognize that the real issue lies with society’s failure to accommodate them. By not providing the necessary infrastructure, we are preventing differently-abled people from living fulfilling and impactful lives.
-
-We must integrate this support infrastructure into the digital world we're building. While "AI First" is the current trend, adopting a "Disabled First" approach to product design could lead us to create simpler, better and more intuitive user interfaces. 
-
 <br>
 <br>
 
