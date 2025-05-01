@@ -60,6 +60,10 @@ Each of these three features can be enabled or disabled. The user can replay the
 
 The LLM (Large Language Model) backend is a three-agent system consisting of a chat agent, correction agent and a translation agent. During each conversation turn API calls are made to the Gemini API to generate chat responses, correct spelling and grammar errors, and to translate text into the user’s first language.
 
+I chose Javascript SpeechRecognition and Javascript SpeechSynthesis beacuse they are free. They are also very fast. The quality may not be as good as some paid services, but I found that over time this doesn't matter. The user's brain adjusts to accomodate the chatbot's weaknesses. 
+
+I chose Gemini 2.0 Flash because it's powerful, fast and Google offers a generous free tier that can be used to build demos like this.
+
 <br>
 <br>
 
