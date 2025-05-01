@@ -1,0 +1,321 @@
+body {
+	background-color: #36454F; /*#f9f9f9;*/
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: #36454F;
+}
+
+main {
+	margin-bottom: 200px;
+	color: #36454F;
+	padding: 10px;
+}
+
+h4 {
+	font-size: 20px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.responsive {
+	 width: 100%; /*Makes media scalable as the viewport size changes*/
+	 height: auto;
+	 max-width: 200px; 
+} 
+
+.container {
+	width: 100%;
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+.sticky-bar {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background-color: #36454F; /* Charcoal #36454F*/
+	color: #fff;
+	padding: 10px; 
+	padding-bottom: 0;
+	text-align: center;
+}
+
+.sticky-bar input[type="text"] {
+	padding: 10px;
+	border-radius: 5px;
+	border: none;
+	margin-right: 10px;
+	width: 60%;
+	font-size: 18px;
+}
+
+.sticky-bar input[type="submit"] {
+	background-color: #fff;
+	color: #333;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+	font-size: 16px;
+	margin-left: 10px;
+}
+
+.message-container {
+	margin-bottom: 10px;
+	padding: 5px 20px;
+	background-color: white; /* #f0f0f0 */
+	border-radius: 5px;
+	line-height: 1.8;
+	letter-spacing: 0.02em;
+}
+
+.set-color1 {
+	color: red;
+}
+
+.set-color2 {
+	color: purple;
+}
+
+#chat-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+#chat-buttons button {
+  margin-right: 20px;
+  padding: 0px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
+  background-color: #36454F;
+  color: #f9f9f9;
+  border: none;
+}
+
+#chat-buttons input[type="file"] {
+  display: none;
+}
+
+#chat-buttons label {
+  display: inline-block;
+  padding: 0px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
+  background-color: #36454F;
+  color: #f9f9f9;
+  border: none;
+}
+	
+#chat-buttons input[type="file"] + label {
+	margin-right: 10px;
+}
+
+#chat-buttons input[type="file"] + label:before {
+  	content: "Load a saved chat";
+}
+
+.sticky-image {
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+	
+.beta-text {
+	font-size: 15px;
+}
+
+
+.lighter-black {
+	color: teal; 
+}
+
+#language-dropdown {
+	margin-top: 10px;
+	font-size: 15px;
+}
+
+.space-letters {
+	letter-spacing: .03em;
+}
+	
+.wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 3px; 
+}
+
+.form-elements {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* Space between the radio buttons and dropdown */
+}
+
+.radio-group {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* Space between the radio buttons */
+}
+
+.radio-option {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  /*border: 1px solid #ccc;
+  border-radius: 4px;*/
+  cursor: pointer;
+}
+
+.radio-option input[type="radio"] {
+  margin-right: 10px;
+}
+
+.dropdown-option {
+  display: flex;
+  align-items: center;
+}
+
+.styled-dropdown {
+  padding: 8px;
+  /*border: 1px solid #ccc;*/
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #36454F;
+  color: #f9f9f9;
+}
+
+.title-color {
+	color: #146C94;
+}
+
+.tag-color {
+	background-color: #36454F;
+}
+
+.hide {
+    display: none;
+}
+
+#line1,
+#line2 {
+	display: block;
+}
+
+.display-block {
+	display: block;
+}
+
+/* Initially hide the panel and set up the transition */
+#panel {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease-out;
+}
+
+/* Class to show the panel */
+.panel-open {
+  max-height: 1000px; /* Set a high value for max-height */
+}
+
+#accordion {
+  margin-right: 20px;
+  padding: 0px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
+  background-color: #36454F;
+  color: #f9f9f9;
+  border: none;
+  font-size: 18px;
+}
+
+.instruction-text {
+	font-size: 17px;
+}
+
+#audioIndicator {
+  bottom: 20px;
+  right: 20px;
+}
+
+.bar {
+  width: 4px;
+  height: 15px;
+  background-color: white; /* #ff0000 */
+  display: inline-block;
+  margin-right: 2px;
+  animation: soundWave 1s infinite alternate;
+}
+
+@keyframes soundWave {
+  0% { height: 5px; }
+  50% { height: 20px; }
+  100% { height: 5px; }
+}
+
+#audioIndicator1 {
+  bottom: 20px;
+  right: 20px;
+}
+
+.bar1 {
+  width: 4px;
+  height: 15px;
+  background-color: white; /* #ff0000 */
+  display: inline-block;
+  margin-right: 2px;
+  
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+
+/* When the page loads
+show audioIndicator1 and
+hide #audioIndicator
+*/
+
+#audioIndicator1 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#audioIndicator {
+	display: none;
+	vertical-align: middle;
+}
+
+
+
+
+/* 
+--------------
+MEDIA QUERIES
+--------------
+*/
+
+/*Cellphone Screens in portrait*/	
+@media only screen and (max-width: 480px) and (orientation: portrait){
+
+	.container {
+	        padding: 0;
+	}
+		
+	.hide-on-phone {
+		display: none;
+	}
+} /*Close media query*/
+
