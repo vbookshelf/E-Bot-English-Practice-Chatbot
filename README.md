@@ -6,7 +6,7 @@ Live Demo:<br>
 https://e-bot.woza.work/
 
 <br>
-<img src="https://github.com/vbookshelf/E-Bot-English-Practice-Chatbot/blob/main/images/teacher.png" width="300"></img>
+<img src="https://github.com/vbookshelf/E-Bot-English-Practice-Chatbot/blob/main/images/teacher2.png" width="300"></img>
 <br>
 
 <br>
