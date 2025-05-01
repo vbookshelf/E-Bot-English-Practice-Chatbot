@@ -202,6 +202,7 @@ Here's an example of an API error that was logged:
 - Everything works fine on desktop however, the voice chat is not stable on Android. The chatbot hears itself talking. Then it responds to what it said. The code is designed to turn speech recognition off while the chatbot is talking. However, on Android it appears that the speech recognition is not being turned off.
 - On Android there's a short delay before the text of the first message is converted into speech. But after the first message, the text to speech conversion is fast and reliable.
 - On Mac OS the text to speech pronunciation of certain words is not correct. For example, "reading" is pronounced "redding" and "Ai" is pronounced "ah e".
+- API errors can occur during a conversation. If an error occurs then ask your question again and continue the conversation. Just like a person, the chatbot remembers the past conversation. Therefore API errors are not a serious problem.
 
 <br>
 <br>
