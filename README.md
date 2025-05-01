@@ -195,6 +195,14 @@ Here's an example of an API error that was logged:
 <br>
 
 ## Revision History
+
+Version 2.0<br>
+01-May-2025<br>
+1- Added voice detection. The user can now talk to the chatbot.<br>
+2- Made the code easy to modify to support other languages besides English.<br>
+3- Changed model from Gemini 1.5 Flash to Gemini 2.0 Flash.<br>
+4- Other minor changes.
+
 Version 1.0<br>
 7-June-2024<br>
 First release
