@@ -187,6 +187,7 @@ Here's an example of an API error that was logged:
 <br>
 
 ## Known Issues
+- The web app works best in the Google Chrome web browser. It can be unstable in other browsers like Safari.
 - Occasionally, the corrrection agent does not correct bad spelling or grammar. In general the correction agent works reliably.
 - On Android there's a short delay before the text of the first message is converted into speech. But after the first message, the text to speech conversion is fast and reliable.
 - On Mac OS the text to speech pronunciation of certain words is not correct. For example, "reading" is pronounced "redding" and "Ai" is pronounced "ah e".
