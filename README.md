@@ -201,7 +201,8 @@ Version 2.0<br>
 1- Added voice detection. The user can now talk to the chatbot.<br>
 2- Made the code easy to modify to support other languages besides English.<br>
 3- Changed model from Gemini 1.5 Flash to Gemini 2.0 Flash.<br>
-4- Other minor changes.
+4- Modified the API code. The code now tries three times to make an API call.<br>
+5- Other minor changes.
 
 Version 1.0<br>
 7-June-2024<br>
