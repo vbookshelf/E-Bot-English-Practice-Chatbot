@@ -2,7 +2,6 @@
 ### Practice English conversation using AI
 
 Live Demo:<br>
-(Access from any device by simply typing this url into a Google Chrome web browser.)<br>
 https://e-bot.woza.work/
 
 <br>
