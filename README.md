@@ -107,7 +107,7 @@ These are the steps:
 <br>
 
 
-## How to modify the code to support other languages
+## How to modify the code to practice other languages
 
 I've set up the version 2.0 code so that it can easily be modified to create chatbots that support other languages.
 
@@ -142,6 +142,10 @@ For example, if you wanted to create a chatbot that would help people pratice Th
     </script>
     ```
 4. When the above changes are made, the chatbot will be able to chat in your chosen language. Please note that not all languages are supported. And the LLM may produce low quality results for low resource languages.
+
+Here are demos for two other chatbots:<br>
+Thai: https://t-bot.woza.work/<br>
+Japanese: https://j-bot.woza.work/
 <br>
 <br>
 
