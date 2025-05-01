@@ -104,6 +104,19 @@ These are the steps:
 5. Navigate to your website url. The app should load and be working.
 <br>
 <br>
+<br>
+
+
+## How to modify the code to support other languages
+
+I've set up the code so that it can easily be modified to create chatbots that support other languages.
+
+For example, if you wanted to create a chatbot that would help people pratice Thai, these are the steps you should follow:
+1. 
+
+<br>
+<br>
+<br>
 
 ## Error Logging
 
