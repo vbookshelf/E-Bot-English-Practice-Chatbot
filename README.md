@@ -142,6 +142,23 @@ For example, if you wanted to create a chatbot that would help people pratice Th
     </script>
     ```
 4. When the above changes are made, the chatbot will be able to chat in your chosen language. Please note that not all languages are supported. And the LLM may produce low quality results for low resource languages.
+<br>
+<br>
+
+## How to add a translation language
+You will notice that the "Settings" menu has a dropdown with languages that can be selected. The chatbot's responses are translated into this language.
+
+To add a translation language simply add that language to the dropdown menu. For example, if you wanted to add the Thai language then add this line to the dropdown menu in the index.php file:
+```
+<option value="Thai" selected>Thai (ไทย)</option>
+```
+When selected, the word "Thai" (from the 'value' settng) will automatically be passed to the translation model. The chatbot's responses will then be translated into Thai. The same approach can be used for other languages that you want to add.<br>
+
+This is a list of languages that the Gemini model supports:<br>
+https://ai.google.dev/gemini-api/docs/models/gemini#available-languages
+
+If the language you want to use is not included in this list, the chatbot will still be able to translate, but the translations may not be very good.
+
 
 <br>
 <br>
