@@ -117,10 +117,10 @@ I've set up the version 2.0 code so that it can easily be modified to create cha
 
 For example, if you wanted to create a chatbot that would help people pratice Thai, these are the steps you should follow:
 
-1. In the conig.js file modify the language code:<br>
+1. In the cofig.js file modify the language code:<br>
    (Use IETF language tags)
    ```
-   lang_code = "th-TH";
+   lang_code = "th-TH"; // Code for Thai
    ```
    This sets the speech detection language.
    
