@@ -129,9 +129,10 @@ For example, if you wanted to create a chatbot that would help people pratice Th
    $bot_language = "Thai";
    $speech_lang_code = "th-TH";
    $speech_voice_name = "Kanya";
+   $speech_rate = 1;
    ```
 
-   The voices need to be changed to match the language. For example, Kanya speaks Thai, but this voice does not work well for English.
+   The voices need to be changed to match the language. For example, Kanya speaks Thai, but this voice does not work well for English. You can adjust the speaking speed by increasing or lowering the value of the $speech_rate variable.
 
    Run this Javascript code to see what voices are available for the language you want to use. Change the language code (en-US) to suit your language.
    This code will print a list of available voices. The ouput will appear in the console in your browser.
