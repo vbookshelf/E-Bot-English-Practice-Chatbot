@@ -113,7 +113,8 @@ I've set up the version 2.0 code so that it can easily be modified to create cha
 
 For example, if you wanted to create a chatbot that would help people pratice Thai, these are the steps you should follow:
 
-1. In the conig.js file modify the language code:
+1. In the conig.js file modify the language code:<br>
+   (Use IETF language tags)
    ```
    lang_code = "th-TH";
    ```
@@ -126,7 +127,7 @@ For example, if you wanted to create a chatbot that would help people pratice Th
    $speech_voice_name = "Kanya";
    ```
 
-   The voices need to be changed to match the language. For example, Kanya speaks Thai, but this voice does not work well for english.
+   The voices need to be changed to match the language. For example, Kanya speaks Thai, but this voice does not work well for English.
 
    Run this Javascript code to see what voices are available for the language you want to use. Change the language code (en-US) to suit your language.
    This code will print a list of available voices. The ouput will appear in the console in your browser.
