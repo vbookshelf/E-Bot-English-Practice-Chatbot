@@ -120,7 +120,7 @@ For example, if you wanted to create a chatbot that would help people pratice Th
    ```
    This sets the speech detection language.
    
-3. In the main.php file change these variables:
+2. In the main.php file change these variables:
    ```
    $bot_language = "Thai";
    $speech_lang_code = "th-TH";
@@ -141,6 +141,11 @@ For example, if you wanted to create a chatbot that would help people pratice Th
       };
     </script>
     ```
+3. You can set the display name of the chatbot in the name_config.php file.
+```
+$bot_name = 'T-Bot';
+```
+
 4. When the above changes are made, the chatbot will be able to chat in your chosen language. Please note that not all languages are supported. And the LLM may produce low quality results for low resource languages.
 
 Here are demos for two other chatbots:<br>
