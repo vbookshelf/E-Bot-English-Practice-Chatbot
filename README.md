@@ -109,10 +109,37 @@ These are the steps:
 
 ## How to modify the code to support other languages
 
-I've set up the code so that it can easily be modified to create chatbots that support other languages.
+I've set up the version 2.0 code so that it can easily be modified to create chatbots that support other languages.
 
 For example, if you wanted to create a chatbot that would help people pratice Thai, these are the steps you should follow:
-1. 
+
+1. In the conig.js file modify the language code:
+   ```
+   lang_code = "th-TH";
+   ```
+   This sets the speech detection language.
+   
+3. In the main.php file change these variables:
+   ```
+   $bot_language = "Thai";
+   $speech_lang_code = "th-TH";
+   $speech_voice_name = "Kanya";
+   ```
+
+   The voices need to be changed to match the language. For example, Kanya speaks Thai, but this voice does not work well for english.
+
+   Run this Javascript code to see what voices are available for the language you want to use. Change the language code (en-US) to suit your language.
+   This code will print a list of available voices. The ouput will appear in the console in your browser.
+    ```
+    <script>
+      speechSynthesis.onvoiceschanged = () => {
+        const voices = speechSynthesis.getVoices();
+        voices
+          .filter(v => v.lang === 'en-US')
+          .forEach(v => console.log(`${v.name} (${v.lang})`));
+      };
+    </script>
+    ```
 
 <br>
 <br>
