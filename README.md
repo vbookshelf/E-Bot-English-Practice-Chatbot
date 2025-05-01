@@ -203,7 +203,7 @@ Here's an example of an API error that was logged:
 - On Android there's a short delay before the text of the first message is converted into speech. But after the first message, the text to speech conversion is fast and reliable.
 - On Mac OS the text to speech pronunciation of certain words is not correct. For example, "reading" is pronounced "redding" and "Ai" is pronounced "ah e".
 - API errors can occur during a conversation. If an error occurs then ask your question again and continue the conversation. Just like a person, the chatbot remembers the past conversation. Therefore API errors are not a serious problem.
-- The output text sometimes contains escaped characters (\") and newline characters (\n\n). A factor that contributes to this is that models regularly do not correctly format their output as JSON. In the code I've priotitized extracting output text that doesn't create code errors over getting clean text i.e. text without escaped characters or newline characters. Even tho the text may contain strange characters it's still readable. This is a prototype app - this issue can be addressed later.
+- The output text sometimes contains escaped characters (\\") and newline characters (\n\n). A factor that contributes to this is that models regularly do not correctly format their output as JSON. In the code I've priotitized extracting output text that doesn't create code errors over getting clean text i.e. text without escaped characters or newline characters. Even tho the text may contain strange characters it's still readable. This is a prototype app - this issue can be addressed later.
 
 <br>
 <br>
