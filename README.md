@@ -221,7 +221,7 @@ Here's an example of an API error that was logged:
 <br>
 
 ## Known Issues
-- The web app works best in the Google Chrome web browser. It can be unstable in other browsers like Safari.
+- The web app works best in the Google Chrome web browser. If you find that the speech functionality is not working on your Chrome desktop browser, try updating your Chrome browser to the latest version.
 - Occasionally, the corrrection agent does not correct bad spelling or grammar. In general the correction agent works reliably.
 - Everything works fine on Mac OS desktop however, the voice chat is not stable on Android. The chatbot hears itself talking. Then it responds to what it said. The code is designed to turn speech recognition off while the chatbot is talking. However, on Android it appears that the speech recognition is not being turned off. I didn't test the chatbot on Windows desktop.
 - On Android there's a short delay before the text of the first message is converted into speech. But after the first message, the text to speech conversion is fast and reliable.
