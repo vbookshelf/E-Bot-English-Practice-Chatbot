@@ -89,7 +89,7 @@ The system consists of three agents:
   
 Each agent is simply a Gemini 2.0 Flash model with a different system message.
 
-1- The user speaks or types a message. If the user speaks then the speech to text system converts the user's speech into text. This user message gets displayed on the page.<br>
+1- The user speaks or types a message. If the user speaks then the speech to text system converts the user's speech into text. This user message gets displayed on the page. The speech recognition system is able to detect both when the user starts and stops speaking.<br>
 2- The user message is then sent to the proofreader_agent where any spelling or grammar errors are corrected.<br>
 3- The corrected message is then sent to the chat_agent. The chat_agent outputs a response to the user message.<br>
 4- The chat agent's response is then sent to the translation_agent. The translation agent translates the response into the user's first language.<br>
