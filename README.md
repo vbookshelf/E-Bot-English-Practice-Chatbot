@@ -22,7 +22,7 @@ English is the language of international business, science and technology. Many 
 
 A challenge that many learners face is they don't have the opportunity to interact with native English speakers.
 
-E-Bot is a virtual English teacher that helps learners practice English through casual text and voice conversation - supporting them with corrections, translated responses and spoken responses. It’s ideal for shy English learners and those who don’t have English speaking friends to practice with.
+E-Bot is a virtual English teacher that helps learners practice English through text and voice conversation - supporting them with corrections, translated responses and spoken responses. It’s ideal for shy English learners and those who don’t have English speaking friends to practice with.
 
 <br>
 <br>
