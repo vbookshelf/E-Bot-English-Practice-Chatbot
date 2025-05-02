@@ -77,6 +77,24 @@ I chose Gemini 2.0 Flash because it's powerful, fast and Google offers a generou
 - Should a user need the chatbot to say something again, any response can be spoken out loud by clicking on it.
 <br>
 
+## How does the system work?
+
+The LLM system consists of three agents:
+
+- proofreader_agent
+- chat_agent
+- translation_agent
+  
+Each agent is simply a gemini 2.0 Flash model with a different system message.
+
+1- The user speaks or types a message. If the user speaks then the speech to text system converts the user's speech into text. This user message gets displayed on the page.<br>
+2- The user message is then sent to the proofreader_agent where any spelling or grammar errors are corrected.<br>
+3- The corrected message is then sent to the chat_agent. The chat_agent outputs a response to the user message.<br>
+4- The chat agent's response is then sent to the translation_agent. The translation agent translates the response into the user's first language.<br>
+5- The corrected user message, chat agent response and the translation agent response are then displayed on the page.<br>
+6- The text to speech system speaks the chat agent response out loud.<br>
+<br>
+
 ## How does the text to speech conversion work?
 The app is using Javascript SpeechSynthesis to convert text to speech. This is a free feature that's built into Javascript. SpeechSynthesis uses the voices available on your device to convert text to speech. Therefore, on different devices you will hear different voices. The quality of the voices will also vary. For example the voices on Android sound more natural than those on Mac OS. The demo video, linked above, is using a voice on Mac OS Big Sur. Besides being free, one of the main benefits of using JS SpeechSynthesis is that it's very fast.<br>
 https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
