@@ -152,6 +152,11 @@ For example, if you wanted to create a chatbot that would help people pratice Th
 
 4. When the above changes are made, the chatbot will be able to chat in your chosen language. Please note that not all languages are supported. And the LLM may produce low quality results for low resource languages.
 
+5. If you want search engines to index your site then you should remove this line from the <head> in the index.php file:
+   ```
+   <meta name="robots" content="noindex, nofollow">
+   ```
+
 Here are demos for two other chatbots:<br>
 Thai: https://t-bot.woza.work/<br>
 Japanese: https://j-bot.woza.work/
