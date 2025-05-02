@@ -28,7 +28,7 @@ E-Bot is a virtual English teacher that helps learners practice English through 
 <br>
 
 ## Quick Info
-- Supports both voice and text inputs
+- Supports both voice and text
 - Mobile optimized web app
 - Minimalist and visually calm UI design
 - Frontend: Html, CSS, Javascript
