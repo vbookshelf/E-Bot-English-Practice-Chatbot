@@ -77,15 +77,17 @@ I chose Gemini 2.0 Flash because it's powerful, fast and Google offers a generou
 - Should a user need the chatbot to say something again, any response can be spoken out loud by clicking on it.
 <br>
 
-## How does the system work?
+## How does the app work?
 
-The LLM system consists of three agents:
+This is how the app works at a high level.
+
+The system consists of three agents:
 
 - proofreader_agent
 - chat_agent
 - translation_agent
   
-Each agent is simply a gemini 2.0 Flash model with a different system message.
+Each agent is simply a Gemini 2.0 Flash model with a different system message.
 
 1- The user speaks or types a message. If the user speaks then the speech to text system converts the user's speech into text. This user message gets displayed on the page.<br>
 2- The user message is then sent to the proofreader_agent where any spelling or grammar errors are corrected.<br>
