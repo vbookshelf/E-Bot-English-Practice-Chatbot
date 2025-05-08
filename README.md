@@ -6,7 +6,7 @@ https://e-bot.woza.work/
 
 E-Bot is an AI voice agent. Voice agents combine speech with the reasoning abilities of LLMs (Large Language Models). This combination creates realtime and human-like voice interactions. In this project the voice agent is an AI English teacher that helps learners practice English conversation.
 
-Normally voice agents use paid API services for speech-to-text and text-to-speech. These services improve the quality of the output speech but they also add cost and increased latency to the project. E-Bot, however, uses free tools that are built into Javascript - Javascript SpeechRecognition and Javascript SpeechSynthesis. This results in low latency and zero cost (when using the Google Gemini free tier). 
+Normally voice agents use paid API services for speech-to-text and text-to-speech. These services improve the quality of the output speech. They also make the app more stable on different platforms and browsers - desktop, mobile etc. But they also add cost and increased latency to the project. E-Bot, however, uses free tools that are built into Javascript - Javascript SpeechRecognition and Javascript SpeechSynthesis. This results in low latency and zero cost (when using the Google Gemini free tier). However, the stability of the app can vary across different platforms and browsers. Currently it works best in Google Chrome running on a desktop.
 
 <br>
 <img src="https://github.com/vbookshelf/E-Bot-English-Practice-Chatbot/blob/main/images/teacher2.png" width="300"></img>
