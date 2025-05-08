@@ -51,12 +51,6 @@ E-Bot is a virtual English teacher that helps learners practice English through 
 <br>
 <br>
 
-## Video Demo
-
-YouTube Video:<br>
-https://youtu.be/VA82S4BLnTs
-<br>
-<br>
 
 ## App Description
 
