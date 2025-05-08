@@ -257,5 +257,20 @@ First release
 - Deeplearning.Ai Course<br>
   Building AI Voice Agents for Production<br>
   https://learn.deeplearning.ai/courses/building-ai-voice-agents-for-production
+
+- Speech Recognition App Using Vanilla JavaScript<br>
+https://www.youtube.com/watch?v=-k-PgvbktX4
+
+- Text To Speech Converter in HTML CSS & JavaScript | No External Library or API Used<br>
+https://www.youtube.com/watch?v=cvZrppquLQg
+
+- Speech Recognition Using the Web Speech API in JavaScript<br>
+https://www.section.io/engineering-education/speech-recognition-in-javascript/
+
+- SpeechRecognition docs<br>
+https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
+
+- SpeechSynthesis docs<br>
+https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
 <br>
 <br>
