@@ -110,6 +110,11 @@ https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis
 <br>
 <br>
 
+## Why are the LLM calls made from PHP instead of from Javascript?
+
+LLM calls can be made directly from Javascript. The latency would be lower. However, the issue is how to secure the API key. In order to secure the API key it has to be placed on the server side. PHP is a server side language. Javascript runs on the client side i.e. locally in the browser. If the API key is hard coded into Javascript then anyone can see it. It's not secure.
+<br>
+<br>
 
 ## How can we be sure that the translations are high quality?
 A full list of Gemini supported languages is available in the Geminin docs:<br>
