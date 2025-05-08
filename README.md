@@ -99,6 +99,7 @@ Each agent is simply a Gemini 2.0 Flash model with a different system message.
 4- The chat agent's response is then sent to the translation_agent. The translation agent translates the response into the user's first language.<br>
 5- The corrected user message, chat agent response and the translation agent response are then displayed on the page.<br>
 6- The text to speech system speaks the chat agent response out loud.<br>
+7- To speed up the response time (reduce the latency) try turning off correction and translation in the settings menu.
 <br>
 
 ## How does the text to speech conversion work?
