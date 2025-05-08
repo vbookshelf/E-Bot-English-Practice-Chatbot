@@ -255,6 +255,21 @@ First release
 <br>
 <br>
 
+## Similar projects
+- T-Bot Thai Language Practice Chatbot<br>
+Practice Thai conversation using AI<br>
+https://t-bot.woza.work/
+
+- J-Bot Japanese Practice Chatbot<br>
+Practice Japanese conversation using AI<br>
+https://j-bot.woza.work/
+
+- JaiTalk AI Translator<br>
+Realtime Eng-Thai Voice and Text Translation<br>
+https://jaitalk.woza.work/
+<br>
+<br>
+
 ## Resources
 
 - Deeplearning.Ai Course<br>
