@@ -80,6 +80,7 @@ I chose Gemini 2.0 Flash because it's powerful, fast and Google offers a generou
 - Text is large and easy to read.
 - Should a user need the chatbot to say something again, any response can be spoken out loud by clicking on it.
 <br>
+<br>
 
 ## How does the app work?
 
@@ -100,6 +101,7 @@ Each agent is simply a Gemini 2.0 Flash model with a different system message.
 5- The corrected user message, chat agent response and the translation agent response are then displayed on the page.<br>
 6- The text to speech system speaks the chat agent response out loud.<br>
 7- To speed up the response time (reduce the latency) try turning off correction and translation in the settings menu.
+<br>
 <br>
 
 ## How does the text to speech conversion work?
