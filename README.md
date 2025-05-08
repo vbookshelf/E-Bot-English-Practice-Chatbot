@@ -252,3 +252,10 @@ First release
 <br>
 <br>
 
+## Resources
+
+- Deeplearning.Ai Course<br>
+  Building AI Voice Agents for Production<br>
+  https://learn.deeplearning.ai/courses/building-ai-voice-agents-for-production
+<br>
+<br>
